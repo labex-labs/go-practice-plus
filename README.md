@@ -9,8 +9,8 @@ In this course, You will practice more labs of Go. This will help you to master 
 
 ## Scenarios
 
-|   Index | Name                                                     | Difficulty   | URL                                                                       |
-|---------|----------------------------------------------------------|--------------|---------------------------------------------------------------------------|
+|   Index | Name                                                    | Difficulty   | URL                                                                       |
+|---------|---------------------------------------------------------|--------------|---------------------------------------------------------------------------|
 |     001 | 📖 Go Basics: Value Types Exploration                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/15526'>Start Lab</a>       |
 |     002 | 🎯 Go Fundamentals Value Types                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/15446'>Start Challenge</a> |
 |     003 | 📖 Golang Constants Comprehension                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/15465'>Start Lab</a>       |
