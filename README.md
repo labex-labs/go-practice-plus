@@ -173,6 +173,7 @@ In this course, You will practice more labs of Go. This will help you to master 
 
 ## More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Go Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Go Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 - 🔗 [Go Free Tutorials](https://github.com/labex-labs/go-free-tutorials)
 
