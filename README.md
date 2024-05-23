@@ -9,7 +9,7 @@ In this course, You will practice more labs of Go. This will help you to master 
 
 ## Scenarios
 
-|   Index | Name                                                    | Difficulty   | URL                                                                       |
+|   Index | Name                                                    | Difficulty   | Practice                                                                  |
 |---------|---------------------------------------------------------|--------------|---------------------------------------------------------------------------|
 |     001 | 📖 Go Basics: Value Types Exploration                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/15526'>Start Lab</a>       |
 |     002 | 🎯 Go Fundamentals Value Types                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/15446'>Start Challenge</a> |
@@ -170,4 +170,9 @@ In this course, You will practice more labs of Go. This will help you to master 
 |     157 | 🎯 Handling Unix Signals in Go Programs                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/15425'>Start Challenge</a> |
 |     158 | 📖 Exit Function in Go                                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/15474'>Start Lab</a>       |
 |     159 | 🎯 Exit Challenge in Go                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/15394'>Start Challenge</a> |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Go Free Tutorials](https://github.com/labex-labs/go-free-tutorials)
 
